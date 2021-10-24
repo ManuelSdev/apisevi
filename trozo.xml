@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog lang="ES" date="2021-10-22 11:32" GMT="+1" version="2.0">
+<product>
+	<id>3</id>
+	<categories>
+		<category><![CDATA[CONSUMIBLES]]></category>
+		<category><![CDATA[TINTA REMAN.]]></category>
+		<category><![CDATA[LEXMARK]]></category>
+	</categories>
+	<name><![CDATA[Inkjet comp. Lexmark n26 / n27 Remanufacturado / color /10n0026 / 10nx227e]]></name>
+	<description><![CDATA[<FONT SIZE=1><SPAN LANG="ES-MODERN"><B><P>Color: </B>Tricolor </P><B><P>Tipo: </B>Tinta (Ink-jet)  Remanufacturado </P><B><P>Capacidad: </B>12 ml</P><P>10N0026E/10NX227E</P><B><P>Compatible con:</P></B><P>Color JetPrinter i3; X 1100; X 1110; X 1130; X 1140; X 1150; X 1155; X 1160; X 1170; X 1180; X 1182; X 1185; X 1190; X 1195; X 1210; X 1250; X 1270; X 1290; X 2200 Series; X 2230; X 2240; X 2250; X 72; X 74; X 75 PrinTrio; Z 13; Z 23e; Z 24; Z 25; Z 27; Z 33; Z 34; Z 35; Z 378; Z 510 series; Z 511; Z 513; Z 515; Z 517; Z 600; Z 601; Z 602; Z 604; Z 605; Z 610; Z 611; Z 612; Z 615; Z 617; Z 640; Z 645; Z 647; DELL A 920; DELL 720. </P></FONT></SPAN>]]></description>
+	<manufacturer><![CDATA[Varios]]></manufacturer>
+	<pvp>3.43</pvp>
+	<canon>0.00</canon>
+	<stock>0</stock>
+	<ean>CO10N0026</ean>
+	<status>0</status>
+	<reference>CO10N0026</reference>
+	<images>https://www.mercatoner.es/images/productos/sen_CO10N0026.JPG</images>
+</product>
+<product>
+	<id>4</id>
+	<categories>
+		<category><![CDATA[CONSUMIBLES]]></category>
+		<category><![CDATA[TINTA REMAN.]]></category>
+		<category><![CDATA[LEXMARK]]></category>
+	</categories>
+	<name><![CDATA[Inkjet comp. Lexmark n32 negro 18c0032]]></name>
+	<description><![CDATA[<FONT SIZE=1><SPAN LANG="ES-MODERN"><B><P>Compatible con Lexmark:</P></B><P>P315</P><P>P300Series</P><P>P4310</P><P>P4330</P><P>P4350</P><P>P6200 Series</P><P>P6210</P><P>P6250</P><P>P6300 Series</P><P>P6350</P><P>P900 Series</P><P>P910</P><P>P915</P><P>X3310 X3330 X3350</P><P>X5210 X5250 X5260 X5270 X5320 X5410 Series X5450 Series X5470</P><P>X7170 X 7310 X7350 X810 X812 X8300 Series X8310 X8350</P><P>Z800 series Z805 Z810 Z812 Z815 Z816 Z818 Z850</P></FONT></SPAN>]]></description>
+	<manufacturer><![CDATA[Varios]]></manufacturer>
+	<pvp>3.6</pvp>
+	<canon>0.00</canon>
+	<stock>3</stock>
+	<ean>8435490600539</ean>
+	<status>1</status>
+	<reference>CO18C0032</reference>
+	<images>https://www.mercatoner.es/images/productos/sen_CO18C0032.JPG</images>
+</product>
